@@ -88,8 +88,8 @@ if __name__ == "__main__":
 #AWS_IMAGE=ami-05c1fa8df7187511
 
 # Pegasus (Spark)
-export AWS_ACCESS_KEY_ID=AKIAJ2V6WKCF7W7WBOYA
-export AWS_SECRET_ACCESS_KEY=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
+export AWS_ACCESS_KEY_ID=xxxxxxxxxxxxxxxxxxxxxx
+export AWS_SECRET_ACCESS_KEY=xxxxxxxxxxxxxxxxxxxxxx
 export AWS_DEFAULT_REGION=us-east-2
 export REM_USER=ubuntu
 export PEGASUS_HOME=/Users/upendra_35/Documents/git.repos/pegasus
